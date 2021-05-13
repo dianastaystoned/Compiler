@@ -1,0 +1,66 @@
+C:\Users\diana\Desktop\splash scrren 2.0\splash scrren 2.0\obj\Debug\PresentacionCompilador.csprojAssemblyReference.cache
+C:\Users\diana\Desktop\splash scrren 2.0\splash scrren 2.0\obj\Debug\splash_scrren_2._0.FrmCompiler.resources
+C:\Users\diana\Desktop\splash scrren 2.0\splash scrren 2.0\obj\Debug\splash_scrren_2._0.Properties.Resources.resources
+C:\Users\diana\Desktop\splash scrren 2.0\splash scrren 2.0\obj\Debug\PresentacionCompilador.csproj.GenerateResource.cache
+C:\Users\diana\Desktop\splash scrren 2.0\splash scrren 2.0\obj\Debug\splash scrren 2.0.exe
+C:\Users\diana\Desktop\splash scrren 2.0\splash scrren 2.0\obj\Debug\splash scrren 2.0.pdb
+C:\Users\diana\Desktop\splash scrren 2.0\splash scrren 2.0\obj\Debug\splash_scrren_2._0.FrmLoad.resources
+C:\Users\diana\Desktop\splash scrren 2.0\splash scrren 2.0\obj\Debug\PresentacionCompilador.csproj.CoreCompileInputs.cache
+C:\Users\diana\Desktop\splash scrren 2.0\splash scrren 2.0\bin\Debug\splash scrren 2.0.exe.config
+C:\Users\diana\Desktop\splash scrren 2.0\splash scrren 2.0\bin\Debug\splash scrren 2.0.exe
+C:\Users\diana\Desktop\splash scrren 2.0\splash scrren 2.0\bin\Debug\splash scrren 2.0.pdb
+C:\Users\diana\Desktop\splash scrren 2.0\splash scrren 2.0\bin\Debug\CircularProgressBar.dll
+C:\Users\diana\Desktop\splash scrren 2.0\splash scrren 2.0\bin\Debug\EntidadesCompilador.exe
+C:\Users\diana\Desktop\splash scrren 2.0\splash scrren 2.0\bin\Debug\ManejadorCompilador.exe
+C:\Users\diana\Desktop\splash scrren 2.0\splash scrren 2.0\bin\Debug\WinFormAnimation.dll
+C:\Users\diana\Desktop\splash scrren 2.0\splash scrren 2.0\bin\Debug\EntidadesCompilador.pdb
+C:\Users\diana\Desktop\splash scrren 2.0\splash scrren 2.0\bin\Debug\EntidadesCompilador.exe.config
+C:\Users\diana\Desktop\splash scrren 2.0\splash scrren 2.0\bin\Debug\ManejadorCompilador.pdb
+C:\Users\diana\Desktop\splash scrren 2.0\splash scrren 2.0\bin\Debug\ManejadorCompilador.exe.config
+C:\Users\diana\Desktop\splash scrren 2.0\splash scrren 2.0\bin\Debug\CircularProgressBar.xml
+C:\Users\diana\Desktop\splash scrren 2.0\splash scrren 2.0\bin\Debug\WinFormAnimation.xml
+C:\Users\diana\Desktop\splash scrren 2.0\splash scrren 2.0\obj\Debug\PresentacionCompilador.csproj.CopyComplete
+D:\Documents\Lenguajes y automatas\Proyecto\splash scrren 2.0\splash scrren 2.0\bin\Debug\splash scrren 2.0.exe.config
+D:\Documents\Lenguajes y automatas\Proyecto\splash scrren 2.0\splash scrren 2.0\bin\Debug\splash scrren 2.0.exe
+D:\Documents\Lenguajes y automatas\Proyecto\splash scrren 2.0\splash scrren 2.0\bin\Debug\splash scrren 2.0.pdb
+D:\Documents\Lenguajes y automatas\Proyecto\splash scrren 2.0\splash scrren 2.0\bin\Debug\CircularProgressBar.dll
+D:\Documents\Lenguajes y automatas\Proyecto\splash scrren 2.0\splash scrren 2.0\bin\Debug\EntidadesCompilador.exe
+D:\Documents\Lenguajes y automatas\Proyecto\splash scrren 2.0\splash scrren 2.0\bin\Debug\ManejadorCompilador.exe
+D:\Documents\Lenguajes y automatas\Proyecto\splash scrren 2.0\splash scrren 2.0\bin\Debug\WinFormAnimation.dll
+D:\Documents\Lenguajes y automatas\Proyecto\splash scrren 2.0\splash scrren 2.0\bin\Debug\EntidadesCompilador.pdb
+D:\Documents\Lenguajes y automatas\Proyecto\splash scrren 2.0\splash scrren 2.0\bin\Debug\EntidadesCompilador.exe.config
+D:\Documents\Lenguajes y automatas\Proyecto\splash scrren 2.0\splash scrren 2.0\bin\Debug\ManejadorCompilador.pdb
+D:\Documents\Lenguajes y automatas\Proyecto\splash scrren 2.0\splash scrren 2.0\bin\Debug\ManejadorCompilador.exe.config
+D:\Documents\Lenguajes y automatas\Proyecto\splash scrren 2.0\splash scrren 2.0\bin\Debug\CircularProgressBar.xml
+D:\Documents\Lenguajes y automatas\Proyecto\splash scrren 2.0\splash scrren 2.0\bin\Debug\WinFormAnimation.xml
+D:\Documents\Lenguajes y automatas\Proyecto\splash scrren 2.0\splash scrren 2.0\obj\Debug\PresentacionCompilador.csprojAssemblyReference.cache
+D:\Documents\Lenguajes y automatas\Proyecto\splash scrren 2.0\splash scrren 2.0\obj\Debug\splash_scrren_2._0.FrmCompiler.resources
+D:\Documents\Lenguajes y automatas\Proyecto\splash scrren 2.0\splash scrren 2.0\obj\Debug\splash_scrren_2._0.FrmLoad.resources
+D:\Documents\Lenguajes y automatas\Proyecto\splash scrren 2.0\splash scrren 2.0\obj\Debug\splash_scrren_2._0.Properties.Resources.resources
+D:\Documents\Lenguajes y automatas\Proyecto\splash scrren 2.0\splash scrren 2.0\obj\Debug\PresentacionCompilador.csproj.GenerateResource.cache
+D:\Documents\Lenguajes y automatas\Proyecto\splash scrren 2.0\splash scrren 2.0\obj\Debug\PresentacionCompilador.csproj.CoreCompileInputs.cache
+D:\Documents\Lenguajes y automatas\Proyecto\splash scrren 2.0\splash scrren 2.0\obj\Debug\PresentacionCompilador.csproj.CopyComplete
+D:\Documents\Lenguajes y automatas\Proyecto\splash scrren 2.0\splash scrren 2.0\obj\Debug\splash scrren 2.0.exe
+D:\Documents\Lenguajes y automatas\Proyecto\splash scrren 2.0\splash scrren 2.0\obj\Debug\splash scrren 2.0.pdb
+D:\Documents\Lenguajes y automatas\Proyecto\Compilador_DianaTorresRea\splash scrren 2.0\splash scrren 2.0\bin\Debug\splash scrren 2.0.exe.config
+D:\Documents\Lenguajes y automatas\Proyecto\Compilador_DianaTorresRea\splash scrren 2.0\splash scrren 2.0\bin\Debug\splash scrren 2.0.exe
+D:\Documents\Lenguajes y automatas\Proyecto\Compilador_DianaTorresRea\splash scrren 2.0\splash scrren 2.0\bin\Debug\splash scrren 2.0.pdb
+D:\Documents\Lenguajes y automatas\Proyecto\Compilador_DianaTorresRea\splash scrren 2.0\splash scrren 2.0\bin\Debug\CircularProgressBar.dll
+D:\Documents\Lenguajes y automatas\Proyecto\Compilador_DianaTorresRea\splash scrren 2.0\splash scrren 2.0\bin\Debug\EntidadesCompilador.exe
+D:\Documents\Lenguajes y automatas\Proyecto\Compilador_DianaTorresRea\splash scrren 2.0\splash scrren 2.0\bin\Debug\ManejadorCompilador.exe
+D:\Documents\Lenguajes y automatas\Proyecto\Compilador_DianaTorresRea\splash scrren 2.0\splash scrren 2.0\bin\Debug\WinFormAnimation.dll
+D:\Documents\Lenguajes y automatas\Proyecto\Compilador_DianaTorresRea\splash scrren 2.0\splash scrren 2.0\bin\Debug\EntidadesCompilador.pdb
+D:\Documents\Lenguajes y automatas\Proyecto\Compilador_DianaTorresRea\splash scrren 2.0\splash scrren 2.0\bin\Debug\EntidadesCompilador.exe.config
+D:\Documents\Lenguajes y automatas\Proyecto\Compilador_DianaTorresRea\splash scrren 2.0\splash scrren 2.0\bin\Debug\ManejadorCompilador.pdb
+D:\Documents\Lenguajes y automatas\Proyecto\Compilador_DianaTorresRea\splash scrren 2.0\splash scrren 2.0\bin\Debug\ManejadorCompilador.exe.config
+D:\Documents\Lenguajes y automatas\Proyecto\Compilador_DianaTorresRea\splash scrren 2.0\splash scrren 2.0\bin\Debug\CircularProgressBar.xml
+D:\Documents\Lenguajes y automatas\Proyecto\Compilador_DianaTorresRea\splash scrren 2.0\splash scrren 2.0\bin\Debug\WinFormAnimation.xml
+D:\Documents\Lenguajes y automatas\Proyecto\Compilador_DianaTorresRea\splash scrren 2.0\splash scrren 2.0\obj\Debug\PresentacionCompilador.csprojAssemblyReference.cache
+D:\Documents\Lenguajes y automatas\Proyecto\Compilador_DianaTorresRea\splash scrren 2.0\splash scrren 2.0\obj\Debug\splash_scrren_2._0.FrmCompiler.resources
+D:\Documents\Lenguajes y automatas\Proyecto\Compilador_DianaTorresRea\splash scrren 2.0\splash scrren 2.0\obj\Debug\splash_scrren_2._0.FrmLoad.resources
+D:\Documents\Lenguajes y automatas\Proyecto\Compilador_DianaTorresRea\splash scrren 2.0\splash scrren 2.0\obj\Debug\splash_scrren_2._0.Properties.Resources.resources
+D:\Documents\Lenguajes y automatas\Proyecto\Compilador_DianaTorresRea\splash scrren 2.0\splash scrren 2.0\obj\Debug\PresentacionCompilador.csproj.GenerateResource.cache
+D:\Documents\Lenguajes y automatas\Proyecto\Compilador_DianaTorresRea\splash scrren 2.0\splash scrren 2.0\obj\Debug\PresentacionCompilador.csproj.CoreCompileInputs.cache
+D:\Documents\Lenguajes y automatas\Proyecto\Compilador_DianaTorresRea\splash scrren 2.0\splash scrren 2.0\obj\Debug\PresentacionCompilador.csproj.CopyComplete
+D:\Documents\Lenguajes y automatas\Proyecto\Compilador_DianaTorresRea\splash scrren 2.0\splash scrren 2.0\obj\Debug\splash scrren 2.0.exe
+D:\Documents\Lenguajes y automatas\Proyecto\Compilador_DianaTorresRea\splash scrren 2.0\splash scrren 2.0\obj\Debug\splash scrren 2.0.pdb

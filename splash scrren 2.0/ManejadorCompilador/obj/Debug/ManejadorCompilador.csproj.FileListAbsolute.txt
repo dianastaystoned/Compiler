@@ -1,0 +1,33 @@
+C:\Users\diana\Desktop\splash scrren 2.0\ManejadorCompilador\obj\Debug\ManejadorCompilador.csprojAssemblyReference.cache
+C:\Users\diana\Desktop\splash scrren 2.0\ManejadorCompilador\obj\Debug\ManejadorCompilador.csproj.CoreCompileInputs.cache
+C:\Users\diana\Desktop\splash scrren 2.0\ManejadorCompilador\bin\Debug\ManejadorCompilador.exe.config
+C:\Users\diana\Desktop\splash scrren 2.0\ManejadorCompilador\bin\Debug\ManejadorCompilador.exe
+C:\Users\diana\Desktop\splash scrren 2.0\ManejadorCompilador\bin\Debug\ManejadorCompilador.pdb
+C:\Users\diana\Desktop\splash scrren 2.0\ManejadorCompilador\bin\Debug\EntidadesCompilador.exe
+C:\Users\diana\Desktop\splash scrren 2.0\ManejadorCompilador\bin\Debug\EntidadesCompilador.pdb
+C:\Users\diana\Desktop\splash scrren 2.0\ManejadorCompilador\bin\Debug\EntidadesCompilador.exe.config
+C:\Users\diana\Desktop\splash scrren 2.0\ManejadorCompilador\obj\Debug\ManejadorCompilador.csproj.CopyComplete
+C:\Users\diana\Desktop\splash scrren 2.0\ManejadorCompilador\obj\Debug\ManejadorCompilador.exe
+C:\Users\diana\Desktop\splash scrren 2.0\ManejadorCompilador\obj\Debug\ManejadorCompilador.pdb
+D:\Documents\Lenguajes y automatas\Proyecto\splash scrren 2.0\ManejadorCompilador\bin\Debug\ManejadorCompilador.exe.config
+D:\Documents\Lenguajes y automatas\Proyecto\splash scrren 2.0\ManejadorCompilador\bin\Debug\ManejadorCompilador.exe
+D:\Documents\Lenguajes y automatas\Proyecto\splash scrren 2.0\ManejadorCompilador\bin\Debug\ManejadorCompilador.pdb
+D:\Documents\Lenguajes y automatas\Proyecto\splash scrren 2.0\ManejadorCompilador\bin\Debug\EntidadesCompilador.exe
+D:\Documents\Lenguajes y automatas\Proyecto\splash scrren 2.0\ManejadorCompilador\bin\Debug\EntidadesCompilador.pdb
+D:\Documents\Lenguajes y automatas\Proyecto\splash scrren 2.0\ManejadorCompilador\bin\Debug\EntidadesCompilador.exe.config
+D:\Documents\Lenguajes y automatas\Proyecto\splash scrren 2.0\ManejadorCompilador\obj\Debug\ManejadorCompilador.csprojAssemblyReference.cache
+D:\Documents\Lenguajes y automatas\Proyecto\splash scrren 2.0\ManejadorCompilador\obj\Debug\ManejadorCompilador.csproj.CoreCompileInputs.cache
+D:\Documents\Lenguajes y automatas\Proyecto\splash scrren 2.0\ManejadorCompilador\obj\Debug\ManejadorCompilador.csproj.CopyComplete
+D:\Documents\Lenguajes y automatas\Proyecto\splash scrren 2.0\ManejadorCompilador\obj\Debug\ManejadorCompilador.exe
+D:\Documents\Lenguajes y automatas\Proyecto\splash scrren 2.0\ManejadorCompilador\obj\Debug\ManejadorCompilador.pdb
+D:\Documents\Lenguajes y automatas\Proyecto\Compilador_DianaTorresRea\splash scrren 2.0\ManejadorCompilador\bin\Debug\ManejadorCompilador.exe.config
+D:\Documents\Lenguajes y automatas\Proyecto\Compilador_DianaTorresRea\splash scrren 2.0\ManejadorCompilador\bin\Debug\ManejadorCompilador.exe
+D:\Documents\Lenguajes y automatas\Proyecto\Compilador_DianaTorresRea\splash scrren 2.0\ManejadorCompilador\bin\Debug\ManejadorCompilador.pdb
+D:\Documents\Lenguajes y automatas\Proyecto\Compilador_DianaTorresRea\splash scrren 2.0\ManejadorCompilador\bin\Debug\EntidadesCompilador.exe
+D:\Documents\Lenguajes y automatas\Proyecto\Compilador_DianaTorresRea\splash scrren 2.0\ManejadorCompilador\bin\Debug\EntidadesCompilador.pdb
+D:\Documents\Lenguajes y automatas\Proyecto\Compilador_DianaTorresRea\splash scrren 2.0\ManejadorCompilador\bin\Debug\EntidadesCompilador.exe.config
+D:\Documents\Lenguajes y automatas\Proyecto\Compilador_DianaTorresRea\splash scrren 2.0\ManejadorCompilador\obj\Debug\ManejadorCompilador.csprojAssemblyReference.cache
+D:\Documents\Lenguajes y automatas\Proyecto\Compilador_DianaTorresRea\splash scrren 2.0\ManejadorCompilador\obj\Debug\ManejadorCompilador.csproj.CoreCompileInputs.cache
+D:\Documents\Lenguajes y automatas\Proyecto\Compilador_DianaTorresRea\splash scrren 2.0\ManejadorCompilador\obj\Debug\ManejadorCompilador.csproj.CopyComplete
+D:\Documents\Lenguajes y automatas\Proyecto\Compilador_DianaTorresRea\splash scrren 2.0\ManejadorCompilador\obj\Debug\ManejadorCompilador.exe
+D:\Documents\Lenguajes y automatas\Proyecto\Compilador_DianaTorresRea\splash scrren 2.0\ManejadorCompilador\obj\Debug\ManejadorCompilador.pdb

@@ -1,0 +1,14 @@
+C:\Users\diana\Desktop\splash scrren 2.0\EntidadesCompilador\bin\Debug\EntidadesCompilador.exe.config
+C:\Users\diana\Desktop\splash scrren 2.0\EntidadesCompilador\bin\Debug\EntidadesCompilador.exe
+C:\Users\diana\Desktop\splash scrren 2.0\EntidadesCompilador\bin\Debug\EntidadesCompilador.pdb
+C:\Users\diana\Desktop\splash scrren 2.0\EntidadesCompilador\obj\Debug\EntidadesCompilador.csprojAssemblyReference.cache
+C:\Users\diana\Desktop\splash scrren 2.0\EntidadesCompilador\obj\Debug\EntidadesCompilador.csproj.CoreCompileInputs.cache
+C:\Users\diana\Desktop\splash scrren 2.0\EntidadesCompilador\obj\Debug\EntidadesCompilador.exe
+C:\Users\diana\Desktop\splash scrren 2.0\EntidadesCompilador\obj\Debug\EntidadesCompilador.pdb
+D:\Documents\Lenguajes y automatas\Proyecto\splash scrren 2.0\EntidadesCompilador\bin\Debug\EntidadesCompilador.exe.config
+D:\Documents\Lenguajes y automatas\Proyecto\splash scrren 2.0\EntidadesCompilador\bin\Debug\EntidadesCompilador.exe
+D:\Documents\Lenguajes y automatas\Proyecto\splash scrren 2.0\EntidadesCompilador\bin\Debug\EntidadesCompilador.pdb
+D:\Documents\Lenguajes y automatas\Proyecto\splash scrren 2.0\EntidadesCompilador\obj\Debug\EntidadesCompilador.csprojAssemblyReference.cache
+D:\Documents\Lenguajes y automatas\Proyecto\splash scrren 2.0\EntidadesCompilador\obj\Debug\EntidadesCompilador.csproj.CoreCompileInputs.cache
+D:\Documents\Lenguajes y automatas\Proyecto\splash scrren 2.0\EntidadesCompilador\obj\Debug\EntidadesCompilador.exe
+D:\Documents\Lenguajes y automatas\Proyecto\splash scrren 2.0\EntidadesCompilador\obj\Debug\EntidadesCompilador.pdb
