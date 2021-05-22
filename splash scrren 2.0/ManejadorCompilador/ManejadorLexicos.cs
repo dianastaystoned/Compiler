@@ -8,9 +8,10 @@ using EntidadesCompilador;
 namespace ManejadorCompilador
 {
     public class ManejadorLexicos //11n + 10(3n+x(n)) + 2(5n) + 3n + 13n = 37n + 10(3n+x(n)) = 37n + 30n + 10x(n) = 67n + 10x(n)
+        //Una vez ya hecha la optimización quedo como 58n
     {
         //Arreglos o Expresiones Reservadas
-        string[] keywords = { "End", "Time", "While", "Begin" };//n
+        string[] keywords = { "Begin", "End", "Time", "While" };//n
         string[] reserved = { "int", "double" };//n
         string variable = "^[a-z]*$";//n
         string number = @"^\d+$";//n
@@ -20,7 +21,6 @@ namespace ManejadorCompilador
         string[] equal = {"=", "<=", ">=" };//n
         string[] sign = { "(", ")" };//n
         string[] instruction = { "type", "delay" };//n
-        int line = 1;//n
 
         //Método para llenar la lista
         public List<EntidadLexico> Analizar(string text) //3n +x(n)
@@ -31,7 +31,7 @@ namespace ManejadorCompilador
             {
                 if (!tokens[i].Equals("")) //n=1
                 {
-                    lexico.Add(new EntidadLexico(i + 1, tokens[i], Metd(tokens[i]), line.ToString()));
+                    lexico.Add(new EntidadLexico(i + 1, tokens[i], Metd(tokens[i]), "1"));
                 }
             }
             return lexico;//n
@@ -63,8 +63,9 @@ namespace ManejadorCompilador
             }
             return line;
         }*/
+        #region Métodos sin aplicar la recursividad.
         //Método para identificar las Palabras reservadas ("start", "end", "time", "while")
-        public string Keyword(string text) //3n+x(n)
+        /*public string Keyword(string text) //3n+x(n)
         {
             string answer = ""; //n
             for (int i = 0; i < keywords.Length; i++) //N(x)
@@ -256,6 +257,237 @@ namespace ManejadorCompilador
                 answer = Sing(text);
             }
             return answer;
+        }*/
+        #endregion
+        #region Métodos aplicando la recursividad
+        public bool KeywordRecursive(string text, int index) //4n
+        {
+            bool state = false;//n
+            if (index < keywords.Length)//n
+            {
+                if (text.Contains(keywords[index]))//n
+                {
+                    state = true;
+                }
+                else
+                {
+                    index++;
+                    return KeywordRecursive(text, index);
+                }
+            }
+            return state;//n
         }
+        public bool VariableRecursive(string text, int index)//4n
+        {
+            bool state = false;
+            if (index < variable.Length)
+            {
+                if (text.Contains(variable[index]))
+                {
+                    state = true;
+                }
+                else
+                {
+                    index++;
+                    return VariableRecursive(text, index);
+                }
+            }
+            return state;
+        }
+        public string NumberRecursive(string text) //5n
+        {
+            string answer = ""; //n
+            try //2n+(n)
+            {
+                Int32.Parse(text); //n
+                if (Regex.IsMatch(text, number)) //n=1
+                {
+                    answer = "Valor";
+                }
+            }
+            catch (System.Exception)
+            {
+                answer = "Símbolo no identificado";
+            }
+            return answer; //n
+        }
+        public string CommentRecursive(string text) //3n
+        {
+            string answer = "";
+            if (text.StartsWith("$") && text.EndsWith("$"))
+            {
+                answer = "Comentario";
+            }
+            return answer;
+        }
+        public bool ReservedRecursive(string text, int index)//4n
+        {
+            bool state = false;
+            if (index < reserved.Length)
+            {
+                if (text.Contains(reserved[index]))
+                {
+                    state = true;
+                }
+                else
+                {
+                    index++;
+                    return ReservedRecursive(text, index);
+                }
+            }
+            return state;
+        }
+        public bool TypeRecursive(string text, int index)//4n
+        {
+            bool state = false;
+            if (index < type.Length)
+            {
+                if (text.Contains(type[index]))
+                {
+                    state = true;
+                }
+                else
+                {
+                    index++;
+                    return TypeRecursive(text, index);
+                }
+            }
+            return state;
+        }
+        public bool PatternRecursive(string text, int index)//4n
+        {
+            bool state = false;
+            if (index < pattern.Length)
+            {
+                if (text.Contains(pattern[index]))
+                {
+                    state = true;
+                }
+                else
+                {
+                    index++;
+                    return PatternRecursive(text, index);
+                }
+            }
+            return state;
+        }
+        public bool Pattern2Recursive(string text, int index)//4n
+        {
+            bool state = false;
+            if (index < pattern2.Length)
+            {
+                if (text.Contains(pattern2[index]))
+                {
+                    state = true;
+                }
+                else
+                {
+                    index++;
+                    return Pattern2Recursive(text, index);
+                }
+            }
+            return state;
+        }
+        public bool InstructionRecursive(string text, int index)//4n
+        {
+            bool state = false;
+            if (index < instruction.Length)
+            {
+                if (text.Contains(instruction[index]))
+                {
+                    state = true;
+                }
+                else
+                {
+                    index++;
+                    return InstructionRecursive(text, index);
+                }
+            }
+            return state;
+        }
+        public bool EqualRecursive(string text, int index)//4n
+        {
+            bool state = false;
+            if (index < equal.Length)
+            {
+                if (text.Contains(equal[index]))
+                {
+                    state = true;
+                }
+                else
+                {
+                    index++;
+                    return EqualRecursive(text, index);
+                }
+            }
+            return state;
+        }
+        public bool SignRecursive(string text, int index)//4n
+        {
+            bool state = false;
+            if (index < sign.Length)
+            {
+                if (text.Contains(sign[index]))
+                {
+                    state = true;
+                }
+                else
+                {
+                    index++;
+                    return SignRecursive(text, index);
+                }
+            }
+            return state;
+        }
+        public string Metd(string text) //13n
+        {
+            string answer = "Símbolo no identificado";
+            if (VariableRecursive(text,0) == true)
+            {
+                answer = "Identificador";
+            }
+            if (ReservedRecursive(text, 0) == true)
+            {
+                answer = "Tipo de dato";
+            }
+            if (TypeRecursive(text, 0) == true)
+            {
+                answer = "Forma";
+            }
+            if (PatternRecursive(text, 0) == true)
+            {
+                answer = "Llaves de apertura";
+            }
+            if (Pattern2Recursive(text, 0) == true)
+            {
+                answer = "Llaves de cierre";
+            }
+            if (InstructionRecursive(text, 0) == true)
+            {
+                answer = "Instrucción";
+            }
+            if (CommentRecursive(text).Contains("Comentario"))
+            {
+                answer = CommentRecursive(text);
+            }
+            if (NumberRecursive(text).Contains("Valor"))
+            {
+                answer = NumberRecursive(text);
+            }
+            if (EqualRecursive(text, 0) == true)
+            {
+                answer = "Comparador";
+            }
+            if (SignRecursive(text, 0) == true)
+            {
+                answer = "Parentesis";
+            }
+            if (KeywordRecursive(text, 0) == true)
+            {
+                answer = "Palabra reservada";
+            }
+            return answer;
+        }
+        #endregion
     }
 }

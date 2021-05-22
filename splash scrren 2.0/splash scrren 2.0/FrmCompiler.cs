@@ -32,8 +32,6 @@ namespace splash_scrren_2._0
             InitializeComponent();
             var name = new ToolTip();
             port = SerialPort.GetPortNames();
-            name.SetToolTip(PicSalir,"CLOSE");
-            name.SetToolTip(PicStart,"START");
             el = new List<EntidadLexico>();
             ma = new ManejadorLexicos();
             ms = new ManejadorSintactico();

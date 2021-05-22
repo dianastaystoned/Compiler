@@ -123,8 +123,6 @@ namespace ManejadorCompilador
             }
             return answer;
         }
-        //Sixth Rule 
-        
         //Para hacer el analizador sémantico
         public string Semantico(DataGridView table)
         {
